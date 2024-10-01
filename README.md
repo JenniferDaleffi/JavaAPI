@@ -17,3 +17,9 @@ Este projeto utiliza as seguintes tecnologias:
 - Java EclipseIde
 - Maven
 - H2 Database (para testes)
+
+# Sobre a atividade desenvolvida 
+Atividade feita em sala de aula com a ajuda do Professor Rafael Desiderio de Java | Fiap
+
+# Onde pegar a API:
+https://swapi.dev/
